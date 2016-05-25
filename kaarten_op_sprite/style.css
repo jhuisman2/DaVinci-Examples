@@ -1,0 +1,16 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.card{
+	margin-left: 150px;
+	margin-top: 500px;
+	width: 94px;
+	height: 130px;
+	background-image: url(kaarten.png);
+	background-repeat: no-repeat;
+}
+
+.ha4{
+	background-position: -328px -145px ;
+}
